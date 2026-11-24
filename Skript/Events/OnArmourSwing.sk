@@ -1,0 +1,2 @@
+on arm swing:
+	send "&6%player%: &7Swung there arm!"

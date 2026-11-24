@@ -1,0 +1,3 @@
+on armor change:
+	send "&6Old item: &7%old armor item%"
+	send "&6New item: &7%new armor item%"
